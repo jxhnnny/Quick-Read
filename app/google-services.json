@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "864661348474",
+    "firebase_url": "https://quick-read-6bf52-default-rtdb.firebaseio.com",
+    "project_id": "quick-read-6bf52",
+    "storage_bucket": "quick-read-6bf52.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864661348474:android:abced3db35844df7a55bc3",
+        "android_client_info": {
+          "package_name": "com.example.quickread"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDST_3g-pgWFdnJ-LWeZQAD9uV9muFKFMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
